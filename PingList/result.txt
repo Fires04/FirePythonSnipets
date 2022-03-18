@@ -1,4 +1,0 @@
-www.host1.cz,77.78.104.3
-www.host2.cz,dead
-www.ip.cz,dead
-www.i.cz,78.31.26.115
